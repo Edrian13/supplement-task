@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/991.fad86541.chunk.js","mappings":"6KAEA,MAIA,EAJiBA,KACRC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,Y","sources":["pages/NewsPage/ui/NewsPage.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nconst NewsPage = () => {\r\n  return <div>NewsPage</div>;\r\n};\r\n\r\nexport default NewsPage;\r\n"],"names":["NewsPage","_jsx","children"],"sourceRoot":""}

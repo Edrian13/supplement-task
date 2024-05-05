@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksupplement_group_task=self.webpackChunksupplement_group_task||[]).push([[399],{399:(e,s,u)=>{u.r(s),u.d(s,{default:()=>t});u(43);var p=u(579);const t=()=>(0,p.jsx)("div",{children:"FeaturesPage"})}}]);
+//# sourceMappingURL=399.b51a64e5.chunk.js.map
