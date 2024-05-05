@@ -1,0 +1,24 @@
+@import '../../../app/styles/variables';
+
+.filterBar {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 50px;
+
+  span {
+    font-size: 25px;
+  }
+}
+
+.sortBlock,
+.filterBlock {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.filterContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

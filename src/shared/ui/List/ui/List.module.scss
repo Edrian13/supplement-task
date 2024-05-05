@@ -1,0 +1,21 @@
+@import '../../../../app/styles/variables';
+
+.list {
+  display: flex;
+  gap: 20px;
+  cursor: pointer;
+
+  font-size: 20px;
+
+  li {
+    transition: color 0.5s ease;
+
+    &:hover {
+      color: $gray;
+    }
+  }
+}
+
+.selected {
+  color: $gray;
+}

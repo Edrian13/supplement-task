@@ -1,0 +1,21 @@
+@import '../../../app/styles/variables';
+
+.cardDetails {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  font-size: 25px;
+}
+
+.star {
+  color: $yellow;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  gap: 50px;
+}

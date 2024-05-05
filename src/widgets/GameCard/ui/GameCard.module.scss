@@ -1,0 +1,52 @@
+@import '../../../app/styles/variables';
+
+.gameCard {
+  width: 350px;
+  background-color: $white;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 10px 40px 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+  //подгрзить svg , чтобы сохранить качество
+  img {
+    width: 310px;
+    height: 422px;
+    border-radius: 30px;
+    align-self: center;
+    object-fit: cover;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  gap: 20px;
+
+  h3 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+
+  span {
+    font-size: 25px;
+  }
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.star {
+  font-size: 25px;
+  color: $yellow;
+}
+
+.btnPosition {
+  align-self: center;
+}

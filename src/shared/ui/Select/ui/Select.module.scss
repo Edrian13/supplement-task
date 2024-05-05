@@ -1,0 +1,11 @@
+@import '../../../../app/styles/variables';
+
+.list {
+  border-radius: 30px;
+  border: none;
+  background-color: transparent;
+  border: 2px solid $gray;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 18px;
+}

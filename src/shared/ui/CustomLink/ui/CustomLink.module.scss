@@ -1,0 +1,11 @@
+@import '../../../../app/styles/variables';
+
+.primary {
+  font-size: 25px;
+  color: $black;
+  transition: color 0.5s ease;
+
+  &:hover {
+    color: $gray;
+  }
+}
