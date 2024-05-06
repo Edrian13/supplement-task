@@ -18,7 +18,6 @@ const HomePage = () => {
         </div>
         <Suspense fallback={<Loader />}>
           <Video
-            preload="metadata"
             loop
             muted
             autoPlay
