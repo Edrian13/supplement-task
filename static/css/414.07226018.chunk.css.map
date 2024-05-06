@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/414.07226018.chunk.css","mappings":"AAAA,wBACE","sources":["shared/ui/Video/ui/Video.module.scss"],"sourcesContent":[".hideVideo {\r\n  display: none;\r\n}\r\n"],"names":[],"sourceRoot":""}
